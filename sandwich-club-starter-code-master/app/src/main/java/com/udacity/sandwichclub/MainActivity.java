@@ -35,4 +35,5 @@ public class MainActivity extends AppCompatActivity {
         intent.putExtra(DetailActivity.EXTRA_POSITION, position);
         startActivity(intent);
     }
+
 }

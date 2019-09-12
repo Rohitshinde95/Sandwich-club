@@ -7,6 +7,15 @@
     <string name="detail_description_label">Description:</string>
     <string name="detail_ingredients_label">Ingredients:</string>
 
+    <!--JSON Keys-->
+    <string name="key_name">name</string>
+    <string name="key_mainName">mainName</string>
+    <string name="key_alsoKnownAs">alsoKnownAs</string>
+    <string name="key_placeOfOrigin">placeOfOrigin</string>
+    <string name="key_description">description</string>
+    <string name="key_image">image</string>
+    <string name="key_ingredients">ingredients</string>
+
     <!-- Content descriptions-->
     <string name="sandwich_picture_content_description">Sandwich picture</string>
 
@@ -128,5 +137,4 @@
         </item>
     </string-array>
 
-</resources>
-<!-- Photo credits to Wikimedia Commons -->
+</resources><!-- Photo credits to Wikimedia Commons -->
